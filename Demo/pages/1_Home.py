@@ -27,7 +27,7 @@ st.set_page_config(
 # DATA_ATT=('C:\Streamlit\StreamlitApp\HomePage\hometopten.csv')
 DATA_URL='https://raw.githubusercontent.com/anideepak/addemoapp/main/Demo/Demodata/HomePage/Homevalues.csv'
 #('Demodata/HomePage/homevalues.csv')
-DATA_BT=https://raw.githubusercontent.com/anideepak/addemoapp/main/Demo/Demodata/HomePage/Homebillingtrend.csv
+DATA_BT='https://raw.githubusercontent.com/anideepak/addemoapp/main/Demo/Demodata/HomePage/Homebillingtrend.csv'
 #('Demodata/HomePage/homebillingtrend.csv')
 DATA_ATT='https://raw.githubusercontent.com/anideepak/addemoapp/main/Demo/Demodata/HomePage/Hometopten.csv'
 #('Demodata/HomePage/hometopten.csv')
