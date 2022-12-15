@@ -1,4 +1,0 @@
-snowflake-snowpark-python==1.0.0
-plotly
-pandas==1.4.4
-requests
