@@ -1,0 +1,86 @@
+﻿month,usage_amount,oc_usage_type
+January,0.000055,(Blank)
+January,0.446572,cloud services
+January,17.64142,clustering
+January,7067.781,compute
+January,0.103272,materialized views
+January,255.7597,others
+January,644.6991,storage
+February,0.003258,(Blank)
+February,0.011117,cloud services
+February,6.25227,clustering
+February,5477.895,compute
+February,0.091929,materialized views
+February,0.11789,others
+February,0.047736,snowpipe
+February,599.4691,storage
+March,0.003644,(Blank)
+March,0.026971,cloud services
+March,20.47209,clustering
+March,4924.961,compute
+March,0.136385,materialized views
+March,0.055176,others
+March,0.003918,snowpipe
+March,758.9022,storage
+April,0.003552,(Blank)
+April,10.34083,cloud services
+April,6.790147,clustering
+April,4551.395,compute
+April,0.012361,materialized views
+April,0.047933,others
+April,0.003855,snowpipe
+April,664.6063,storage
+May,0.003671,(Blank)
+May,3.966986,cloud services
+May,16.90493,clustering
+May,3768.844,compute
+May,0.034607,materialized views
+May,0.049734,others
+May,0.011337,snowpipe
+May,714.369,storage
+June,0.003558,(Blank)
+June,19.856639,cloud services
+June,10.92579,clustering
+June,5861.823,compute
+June,0.001152,materialized views
+June,0.046556,others
+June,0.016743,snowpipe
+June,790.2325,storage
+July,0.00365,(Blank)
+July,4.917686,cloud services
+July,14.17703,clustering
+July,6834.402,compute
+July,0.027504,materialized views
+July,0.047118,others
+July,0.085869,snowpipe
+July,795.724,storage
+August,0.00366,(Blank)
+August,68.03642,cloud services
+August,5.429496,clustering
+August,4591.726,compute
+August,0.79257,materialized views
+August,0.062659,others
+August,0.003279,snowpipe
+August,883.9544,storage
+September,0.003504,(Blank)
+September,-33.0245,cloud services
+September,6.816105,clustering
+September,3866.639,compute
+September,0.124758,materialized views
+September,0.057555,others
+September,0.143856,snowpipe
+September,726.4051,storage
+October,0.003667,(Blank)
+October,0.00313,cloud services
+October,0.41559,clustering
+October,3715.96,compute
+October,0.052551,others
+October,0.115484,snowpipe
+October,726.5543,storage
+November,0.001788,(Blank)
+November,0.008025,cloud services
+November,5.668026,clustering
+November,1827.969,compute
+November,0.026677,others
+November,350.3733,storage
+December,,
