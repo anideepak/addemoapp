@@ -30,13 +30,13 @@ st.set_page_config(
 # DATA_ATT=('C:\Streamlit\StreamlitApp\ComputePage\cmpcraccnttopten.csv')
 # DATA_WTT=('C:\Streamlit\StreamlitApp\ComputePage\cmpcrwhtopten.csv')
 # DATA_CAT=('C:\Streamlit\StreamlitApp\ComputePage\cmpcostbyaccnt.csv')
-DATA_CT=('Demodata\ComputePage\cmpcredittrend.csv')
-DATA_CO=('Demodata\ComputePage\cmpcostcover.csv')
+DATA_CT='https://raw.githubusercontent.com/anideepak/addemoapp/main/Demo/Demodata/ComputePage/Cmpcredittrend.csv'
+DATA_CO='https://raw.githubusercontent.com/anideepak/addemoapp/main/Demo/Demodata/ComputePage/Cmpcostcover.csv'
 
-DATA_ATT=('Demodata\ComputePage\cmpcraccnttopten.csv')
-DATA_WTT=('Demodata\ComputePage\cmpcrwhtopten.csv')
-DATA_CAT=('Demodata\ComputePage\cmpcostbyaccnt.csv')
-
+DATA_ATT='https://raw.githubusercontent.com/anideepak/addemoapp/main/Demo/Demodata/ComputePage/Cmpcraccnttopten.csv'
+DATA_WTT='https://raw.githubusercontent.com/anideepak/addemoapp/main/Demo/Demodata/ComputePage/Cmpcrwhtopten.csv'
+DATA_CAT='https://raw.githubusercontent.com/anideepak/addemoapp/main/Demo/Demodata/ComputePage/cmpcostbyaccnt.csv'
+     
 sidebar = st.sidebar
 
 # Create Session object
