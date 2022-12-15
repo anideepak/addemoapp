@@ -25,9 +25,9 @@ st.set_page_config(
 # DATA_URL=('C:\Streamlit\StreamlitApp\HomePage\homevalues.csv')
 # DATA_BT=('C:\Streamlit\StreamlitApp\HomePage\homebillingtrend.csv')
 # DATA_ATT=('C:\Streamlit\StreamlitApp\HomePage\hometopten.csv')
-DATA_URL=('Demodata\HomePage\homevalues.csv')
-DATA_BT=('Demodata\HomePage\homebillingtrend.csv')
-DATA_ATT=('Demodata\HomePage\hometopten.csv')
+DATA_URL=('Demodata/HomePage/homevalues.csv')
+DATA_BT=('Demodata/HomePage/homebillingtrend.csv')
+DATA_ATT=('Demodata/HomePage/hometopten.csv')
 
 sidebar = st.sidebar
 
